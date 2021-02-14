@@ -1,0 +1,9 @@
+logs
+target
+/.idea
+/classpath
+/.project
+/.settings
+*.sc
+*.log
+.bsp

@@ -1,0 +1,5 @@
+[repositories]
+    local
+    nexus-snapshot: https://maven.byted.org/repository/snapshots/
+    nexus: https://maven.byted.org/repository/public/
+    nexus-ivy: https://maven.byted.org/repository/ivy-releases/,[organization]/[module]/(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
